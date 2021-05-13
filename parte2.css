@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #E6E6FA;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 1.3em;
+
+}
+
+#imag {
+    margin: 20px auto;
+    width: 600px;
+    padding: 5px;
+    background-color: gray;
+    text-align: center;
+    border: solid 0.08em;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(0,0,0,0.2);
+    text-shadow: 2px 2px 2px rgb(0,0,0,0.5);
+}
+
+.titu {
+    text-align: center;
+    border: solid 0.08em;
+    border-radius: 16px;
+    box-shadow: 2px 2px 2px 2px rgb(0,0,0,0.2);
+    width: 250px;
+    margin-left: 37%;
+    text-shadow: 2px 2px 2px rgb(0,0,0,0.5);
+    background-color: #8A2BE2;
+}
+
+.parag {
+    text-align: justify;
+    border: solid 0.08em;
+    border-radius: 16px;
+    box-shadow: 2px 2px 2px 2px rgb(0,0,0,0.2);
+    margin-bottom: 80px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #836FFF;
+}
+
+#atalho {
+    text-align: left;
+    width: 350px;
+    margin-left: 2%;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+#atalho2 {
+    text-align: left;
+    width: 350px;
+    margin-left: 4%;
+}
+
+#tudo {
+    border: solid 0.08em;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(0,0,0,0.2);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #B5B5B5;
+}
+
+.tipag {
+    border: solid 0.08em;
+    border-radius: 28px;
+    box-shadow: 2px 2px 2px 2px rgb(0,0,0,0.2);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #9F79EE;
+    padding-top: 15px;
+    border-bottom: black;
+}
+
+#contact2 {
+    text-align: left;
+    margin: -160px 10px 0px 700px;
+
+}
+
+
+
+
+
+
+
+
